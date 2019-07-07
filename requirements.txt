@@ -2,4 +2,4 @@ torch
 pytorch-ignite
 pytorch-pretrained-bert >= 0.6.2
 tensorboardX
-tensorflow  # for tensorboardX
+tensorflow==1.13.1  # for tensorboardX
